@@ -1,0 +1,17 @@
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\TomogrammVisualizer3.exe.config
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\TomogrammVisualizer3.exe
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\TomogrammVisualizer3.pdb
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\OpenTK.dll
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\OpenTK.pdb
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\OpenTK.xml
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.csprojAssemblyReference.cache
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.Properties.Resources.resources
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.csproj.GenerateResource.cache
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.csproj.CoreCompileInputs.cache
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.csproj.CopyComplete
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.exe
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.pdb
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.exe.config
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\obj\Debug\TomogrammVisualizer3.Form1.resources
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\sizov\source\repos\TomogrammVisualizer3\TomogrammVisualizer3\bin\Debug\OpenTK.GLControl.xml
